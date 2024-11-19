@@ -1,0 +1,30 @@
+C:\Tugas\NetworkProgramming-master\MovingObject\bin\Debug\MovingObject.exe.config
+C:\Tugas\NetworkProgramming-master\MovingObject\bin\Debug\MovingObject.exe
+C:\Tugas\NetworkProgramming-master\MovingObject\bin\Debug\MovingObject.pdb
+C:\Tugas\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.csproj.AssemblyReference.cache
+C:\Tugas\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.Form1.resources
+C:\Tugas\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.Properties.Resources.resources
+C:\Tugas\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.csproj.GenerateResource.cache
+C:\Tugas\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.csproj.CoreCompileInputs.cache
+C:\Tugas\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.exe
+C:\Tugas\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.pdb
+C:\Tugas\NetworkProgramming-master\MovingObject - Copy (2)\bin\Debug\MovingObject.exe.config
+C:\Tugas\NetworkProgramming-master\MovingObject - Copy (2)\bin\Debug\MovingObject.exe
+C:\Tugas\NetworkProgramming-master\MovingObject - Copy (2)\bin\Debug\MovingObject.pdb
+C:\Tugas\NetworkProgramming-master\MovingObject - Copy (2)\obj\Debug\MovingObject.csproj.AssemblyReference.cache
+C:\Tugas\NetworkProgramming-master\MovingObject - Copy (2)\obj\Debug\MovingObject.Form3.resources
+C:\Tugas\NetworkProgramming-master\MovingObject - Copy (2)\obj\Debug\MovingObject.Properties.Resources.resources
+C:\Tugas\NetworkProgramming-master\MovingObject - Copy (2)\obj\Debug\MovingObject.csproj.GenerateResource.cache
+C:\Tugas\NetworkProgramming-master\MovingObject - Copy (2)\obj\Debug\MovingObject.csproj.CoreCompileInputs.cache
+C:\Tugas\NetworkProgramming-master\MovingObject - Copy (2)\obj\Debug\MovingObject.exe
+C:\Tugas\NetworkProgramming-master\MovingObject - Copy (2)\obj\Debug\MovingObject.pdb
+C:\Tugas\NetworkProgramming-master\MovingObject-Client 3\bin\Debug\MovingObject.exe.config
+C:\Tugas\NetworkProgramming-master\MovingObject-Client 3\bin\Debug\MovingObject.exe
+C:\Tugas\NetworkProgramming-master\MovingObject-Client 3\bin\Debug\MovingObject.pdb
+C:\Tugas\NetworkProgramming-master\MovingObject-Client 3\obj\Debug\MovingObject.csproj.AssemblyReference.cache
+C:\Tugas\NetworkProgramming-master\MovingObject-Client 3\obj\Debug\MovingObject.Form4.resources
+C:\Tugas\NetworkProgramming-master\MovingObject-Client 3\obj\Debug\MovingObject.Properties.Resources.resources
+C:\Tugas\NetworkProgramming-master\MovingObject-Client 3\obj\Debug\MovingObject.csproj.GenerateResource.cache
+C:\Tugas\NetworkProgramming-master\MovingObject-Client 3\obj\Debug\MovingObject.csproj.CoreCompileInputs.cache
+C:\Tugas\NetworkProgramming-master\MovingObject-Client 3\obj\Debug\MovingObject.exe
+C:\Tugas\NetworkProgramming-master\MovingObject-Client 3\obj\Debug\MovingObject.pdb

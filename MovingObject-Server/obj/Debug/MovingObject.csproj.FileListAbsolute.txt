@@ -1,0 +1,20 @@
+C:\Tugas\NetworkProgramming-master\MovingObject\bin\Debug\MovingObject.exe.config
+C:\Tugas\NetworkProgramming-master\MovingObject\bin\Debug\MovingObject.exe
+C:\Tugas\NetworkProgramming-master\MovingObject\bin\Debug\MovingObject.pdb
+C:\Tugas\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.csproj.AssemblyReference.cache
+C:\Tugas\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.Form1.resources
+C:\Tugas\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.Properties.Resources.resources
+C:\Tugas\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.csproj.GenerateResource.cache
+C:\Tugas\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.csproj.CoreCompileInputs.cache
+C:\Tugas\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.exe
+C:\Tugas\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.pdb
+D:\Boku no file\Kuliah Sucks\pemrograman\MovingObject-Server\bin\Debug\MovingObject.exe.config
+D:\Boku no file\Kuliah Sucks\pemrograman\MovingObject-Server\bin\Debug\MovingObject.exe
+D:\Boku no file\Kuliah Sucks\pemrograman\MovingObject-Server\bin\Debug\MovingObject.pdb
+D:\Boku no file\Kuliah Sucks\pemrograman\MovingObject-Server\obj\Debug\MovingObject.csproj.AssemblyReference.cache
+D:\Boku no file\Kuliah Sucks\pemrograman\MovingObject-Server\obj\Debug\MovingObject.Form1.resources
+D:\Boku no file\Kuliah Sucks\pemrograman\MovingObject-Server\obj\Debug\MovingObject.Properties.Resources.resources
+D:\Boku no file\Kuliah Sucks\pemrograman\MovingObject-Server\obj\Debug\MovingObject.csproj.GenerateResource.cache
+D:\Boku no file\Kuliah Sucks\pemrograman\MovingObject-Server\obj\Debug\MovingObject.csproj.CoreCompileInputs.cache
+D:\Boku no file\Kuliah Sucks\pemrograman\MovingObject-Server\obj\Debug\MovingObject.exe
+D:\Boku no file\Kuliah Sucks\pemrograman\MovingObject-Server\obj\Debug\MovingObject.pdb
